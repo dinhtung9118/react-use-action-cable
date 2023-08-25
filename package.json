@@ -1,5 +1,5 @@
 {
-  "name": "@aersoftware/react-use-action-cable",
+  "name": "@dinhtung9118/react-use-action-cable",
   "version": "1.0.2",
   "description": "Hooks to easily use Rails Action Cable in your React (Native) application",
   "main": "dist/index.js",
@@ -8,11 +8,11 @@
     "prebuild": "npm i",
     "build": "babel src --out-dir dist"
   },
-  "author": "Jacco van der Plaat <jacco.vanderplaat@aer.nl> (aer.nl)",
+  "author": "Jacco van der Plaat <tung.dq.dev@gmail.com> (aer.nl)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aersoftware/react-use-action-cable"
+    "url": "git+https://github.com/dinhtung9118/react-use-action-cable.git"
   },
   "files": [
     "dist"
@@ -44,5 +44,12 @@
     "actioncable",
     "socket",
     "websocket"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/dinhtung9118/react-use-action-cable/issues"
+  },
+  "homepage": "https://github.com/dinhtung9118/react-use-action-cable#readme",
+  "directories": {
+    "example": "examples"
+  }
 }
