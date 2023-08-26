@@ -1,5 +1,5 @@
 {
-  "name": "@dinhtung9118/react-use-action-cable",
+  "name": "@tungdinh9118/react-use-action-cable",
   "version": "1.0.2",
   "description": "Hooks to easily use Rails Action Cable in your React (Native) application",
   "main": "dist/index.js",
@@ -34,7 +34,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "react",
