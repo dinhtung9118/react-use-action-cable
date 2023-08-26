@@ -8,7 +8,7 @@
     "prebuild": "npm i",
     "build": "babel src --out-dir dist"
   },
-  "author": "Jacco van der Plaat <tung.dq.dev@gmail.com> (aer.nl)",
+  "author": "TungDinh <tung.dq.dev@gmail.com> (aer.nl)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "react",
